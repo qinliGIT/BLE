@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BLE\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BLE\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BLE\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_control_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BLE\\app\\src\\main\\res\\layout\\data_control_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BLE\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BLE\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    }
+]

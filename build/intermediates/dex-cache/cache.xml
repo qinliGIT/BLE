@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BLE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6f1a3f75ea60550062d39f669219eb75b5ec177">
+        <dex dex="C:\Users\Administrator\Desktop\BLE\app\build\intermediates\pre-dexed\debug\instant-run_dba0d04fb435d0d4f1486dc6e31206a99e481d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\BLE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90771d6e096e59271b78647da4d4c17edd9af08e">
+        <dex dex="C:\Users\Administrator\Desktop\BLE\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9508a178eadded15d5e22bf7fd9e9576c815d762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\20161114\Users\Administrator\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\Desktop\BLE\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_131cf71afb5f949bf52b4820565cc93de5bf3998.jar" />
+    </item>
+
+</items>
